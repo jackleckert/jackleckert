@@ -11,7 +11,7 @@
 - 🎾 Hobbies: my main sport is tennis, which I have been playing at a competitive level for several years. I also love climbing and descending mountains, whether it's rock climbing 🧗🏻‍♂️, mountain biking 🚵🏻‍♂️ or skiing ⛷️. I am currently learning to play the piano 🎵.
   
 ## 🔬 **Research Interests**
-- **Controls**: Model-based controls and Reinforcement learning
+- **Controls**: Model-based controls, model predictive control and Reinforcement learning
 - **Machine Learning**: Convolutionnal-based neural networks and Transformers
 - **Positioning & Localization**: GNSS postioning systems, INS / IMUs, optical flow and stereo cameras
 

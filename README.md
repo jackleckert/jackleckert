@@ -10,7 +10,7 @@
   
 ## 🔬 **Research Interests**
 - **Controls**
-  Model-based controls and Reinforcement learning
+Model-based controls and Reinforcement learning
 - **Machine Learning**
   Convolutionnal-based neural networks and Transformers
 - **Positioning & Localization**

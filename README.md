@@ -9,12 +9,9 @@
 - 🤖 Alumni of UC Berkeley (go bears!), where I completed my Master's Degree 
   
 ## 🔬 **Research Interests**
-- **Controls**
-Model-based controls and Reinforcement learning
-- **Machine Learning**
-  Convolutionnal-based neural networks and Transformers
-- **Positioning & Localization**
-  GNSS postioning systems, INS / IMUs, optical flow and stereo cameras
+- **Controls**: Model-based controls and Reinforcement learning
+- **Machine Learning**: Convolutionnal-based neural networks and Transformers
+- **Positioning & Localization**: GNSS postioning systems, INS / IMUs, optical flow and stereo cameras
 
 ## 🧰 **Tech Stack**
 - **Languages**: Python, C/C++, MATLAB/Simulink

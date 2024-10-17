@@ -5,7 +5,6 @@
 
 ## 👨🏻‍💻 **About Me**
 - 💼 Experienced in **Embedded Software Engineering** at various startups, currently Software QA Engineer at [Swift Navigation](https://www.swiftnav.com/).
-- 💻 Proficient in **Python** and **C++**, with a keen interest in **Robotics**, **AI**, and **Computer Vision**.
 - 🎓 Alumni of UC Berkeley (Go 🐻!), where I completed a Master of Engineering in Robotics in May 2024. I also obtained a Bachelor of Science in Math & Physics at Ecole Centrale de Lyon.
 - 💬 Languages: I speak 🇫🇷, 🇩🇪, 🇺🇸 fluently, and currently learn 🇪🇸.
 - 🎾 Hobbies: my main sport is tennis, which I have been playing at a competitive level for several years. I also love climbing and descending mountains, whether it's rock climbing 🧗🏻‍♂️, mountain biking 🚵🏻‍♂️ or skiing ⛷️. I am currently learning to play the piano 🎵.

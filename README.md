@@ -1,12 +1,12 @@
 # 👋 Hi, I'm **Jack Leckert**!
 
-🔧 **Embedded Software Engineer | Robotics & AI Enthusiast**  
+🔧 **🇫🇷🇩🇪Embedded Software Engineer | Robotics & AI Enthusiast**  
 🚀 Passionate about building innovative software solutions in **Robotics, AI and Autonomous Systems**, contributing to a more efficient, safer and greener world.
 
 ## 👨🏻‍💻 **About Me**
 - 💼 Experienced in **Embedded Software Engineering** at various startups, currently Sofatware QA Engineer at Swift Navigation.
 - 💻 Proficient in **Python** and **C++**, with a keen interest in **Robotics**, **AI**, and **Computer Vision**.
-- 🤖 Alumni of UC Berkeley (go bears!), where I completed my Master's Degree 
+- 🤖 Alumni of UC Berkeley (Go 🐻!), where I completed a Master of Engineering in Robotics in May 2024. I also obtained a Bachelor of Science in Math & Physics at Ecole Centrale de Lyon.
   
 ## 🔬 **Research Interests**
 - **Controls**: Model-based controls and Reinforcement learning

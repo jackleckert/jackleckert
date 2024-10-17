@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm **Jack Leckert**!
 
-<!--
-**jackleckert/jackleckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Embedded Software Engineer | Robotics & AI Enthusiast**  
+🚀 Passionate about building innovative software solutions in **Robotics, AI and Autonomous Systems**, contributing to a more efficient, safer and greener world.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 **About Me**
+- 💼 Experienced in **Embedded Software Engineering** at various startups, currently Sofatware QA Engineer at Swift Navigation.
+- 💻 Proficient in **Python** and **C++**, with a keen interest in **Robotics**, **AI**, and **Computer Vision**.
+- 🤖 Alumni of UC Berkeley (go bears!), where I completed my Master's Degree 
+  
+## Research 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 **Tech Stack**
+- **Languages**: Python, C/C++, MATLAB/Simulink
+- **Tools**: Jenkins, Bazel, Cmake
+- **AI & Robotics**: Pytorch, TensorFlow, OpenCV, ROS, Mujoco
+
+
+## 📫 **Get in Touch**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-leckert) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leckert.j@gmail.com)

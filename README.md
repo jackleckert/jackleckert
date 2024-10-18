@@ -16,7 +16,7 @@
 
 ## 🤖 **Tech Stack**
 - **Languages**: Python, C/C++, MATLAB/Simulink
-- **Tools**: Jenkins, Bazel, Cmake
+- **Software**: Bazel, Cmake
 - **AI & Robotics**: Pytorch, TensorFlow, OpenCV, Mujoco
 
 

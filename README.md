@@ -3,7 +3,7 @@
 **🇫🇷 🇩🇪 Embedded Software Engineer | Robotics & AI Enthusiast**  
 🚀 Passionate about building innovative software solutions in **Robotics, AI and Autonomous Systems**, contributing to a more efficient, safer and greener world.
 
-## 👨🏻‍💻 **About Me**
+## 👀 **About Me**
 - 💼 Experienced in **Embedded Software Engineering** at various startups, currently Software QA Engineer at [Swift Navigation](https://www.swiftnav.com/).
 - 🎓 Alumni of UC Berkeley (Go 🐻!), where I completed a Master of Engineering in Robotics in May 2024. I also obtained a Bachelor of Science in Math & Physics at Ecole Centrale de Lyon.
 - 💬 Languages: I speak 🇫🇷, 🇩🇪, 🇺🇸 fluently, and currently learn 🇪🇸.

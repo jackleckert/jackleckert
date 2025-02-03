@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Jack Leckert**!
 
-**🇫🇷 🇩🇪 Embedded Software QA Engineer | Autonomous Systems**  
+**🇫🇷 🇩🇪 Autonomous Systems Engineer**  
 🚀 Passionate about building innovative software solutions in **Robotics, AI and Autonomous Systems**, contributing to a more efficient, safer and greener world.
 
 ## 👀 **About Me**

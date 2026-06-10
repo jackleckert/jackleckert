@@ -15,9 +15,10 @@
 - **Positioning & Localization**: GNSS postioning systems, INS / IMUs, Optical flow and Stereo cameras
 
 ## 🤖 **Tech Stack**
-- **Languages**: Python, C/C++, MATLAB/Simulink
-- **Software**: Bazel, Cmake
-- **AI & Robotics**: Pytorch, TensorFlow, OpenCV, Mujoco
+- **Languages**: Python, C/C++, Go, TypeScript
+- **Software**: Bazel, Cmake, uv, npm, gRPC, MCP
+- **Machine Learning**: Pytorch, TensorFlow, OpenCV, Mujoco
+- **Deployments**: Kubernetes, Jenkins, AWS
 
 
 ## 📫 **Get in Touch**

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Jack**!
 
 **🇫🇷 🇩🇪 Autonomous Systems Engineer**  
-🚀 Passionate about building innovative software solutions in **AI and Autonomous Systems**, contributing to a more efficient, safer and greener world.
+🚀 Passionate about building innovative software solutions in **AI and Autonomous Systems**, contributing to a more efficient, safer and cleaner world.
 
 ## 👀 **About Me**
 - 💼 Experienced in **Software Engineering** at various startups, currently Software Engineer at [Swift Navigation](https://www.swiftnav.com/).
